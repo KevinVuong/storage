@@ -1,0 +1,8 @@
+Mount Point :	/	
+Capacity :	170.55 GB (170,545,782,784 Bytes)
+Format :	Mac OS Extended (Journaled)	
+Available :	101.19 GB (101,187,231,744 Bytes)
+Owners Enabled :	Yes	
+Used :	69.36 GB (69,358,551,040 Bytes)
+Number of Folders :	220,309	
+Number of Files :	899,515
