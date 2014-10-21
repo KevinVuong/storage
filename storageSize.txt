@@ -1,0 +1,12 @@
+Macintosh HD:
+
+  Available:	833.78 GB (833,781,153,792 bytes)
+  Capacity:	899.87 GB (899,865,784,320 bytes)
+  Mount Point:	/
+  File System:	Journaled HFS+
+  Writable:	Yes
+  Ignore Ownership:	No
+  BSD Name:	disk0s2
+  Volume UUID:	49E0D1AC-0D18-300F-9170-EF78BADA026E
+  Physical Drive:
+Space free: 834.04 GB
